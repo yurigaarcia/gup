@@ -1,0 +1,36 @@
+Questão numero 3.
+
+a) A lógica é adicionar 2 a cada termo da sequência, então o próximo elemento será 9.
+
+b) A lógica é multiplicar cada termo da sequência por 2, então o próximo elemento será 128.
+
+c) A lógica é adicionar o quadrado do índice ao primeiro termo da sequência (0), então o próximo elemento será 49 (o sétimo elemento, índice 6).
+
+d) A lógica é elevar ao quadrado cada número ímpar a partir de 2, então o próximo elemento será 100.
+
+e) A lógica é somar os dois números anteriores para obter o próximo número, então o próximo elemento será 13.
+
+f) A lógica não é clara, pois não há um padrão evidente na sequência. É possível que haja um erro na sequência ou que falte informações para descobrir a lógica. O próximo número pode ser qualquer um, dependendo da regra oculta da sequência.
+
+
+Questão numero 4.
+
+Para resolver esse problema, precisamos considerar a distância entre as duas cidades e as velocidades dos veículos.
+
+Sabemos que a distância entre Ribeirão Preto e Franca é de 100 km, e os veículos se movem em direções opostas até se encontrarem na metade do caminho. Ou seja, quando eles se encontrarem, cada um terá percorrido metade da distância, ou seja, 50 km.
+
+Agora precisamos calcular quanto tempo levará para cada veículo percorrer os 50 km até o ponto de encontro.
+
+O carro está se movendo a uma velocidade constante de 110 km/h, o que significa que ele percorre 1,83 km por minuto (110 km/h / 60 min/h). Portanto, para percorrer 50 km, o carro levará aproximadamente 27,3 minutos (50 km / 1,83 km/min).
+
+Já o caminhão está se movendo a uma velocidade constante de 80 km/h, mas leva 5 minutos a mais em cada um dos dois pedágios. Então, a velocidade efetiva do caminhão será menor, pois ele precisa parar e esperar na fila para passar pelo pedágio. Vamos supor que cada pedágio leve 5 minutos extras para o caminhão, ou seja, 10 minutos no total.
+
+Portanto, a velocidade efetiva do caminhão será de 70 km/h (80 km/h - 10 km/h). Isso significa que ele percorre 1,17 km por minuto (70 km/h / 60 min/h). Para percorrer 50 km, o caminhão levará aproximadamente 42,7 minutos (50 km / 1,17 km/min).
+
+Agora podemos comparar os tempos de viagem dos dois veículos e determinar qual estará mais próximo de Ribeirão Preto quando se cruzarem.
+
+O carro levará 27,3 minutos para chegar ao ponto de encontro, enquanto o caminhão levará 42,7 minutos. Portanto, quando se cruzarem, o carro estará mais próximo de Ribeirão Preto, pois terá percorrido menos tempo e menos distância do que o caminhão.
+
+Em resumo, quando o carro e o caminhão se cruzarem na rodovia, o carro estará mais próximo de Ribeirão Preto.
+
+
